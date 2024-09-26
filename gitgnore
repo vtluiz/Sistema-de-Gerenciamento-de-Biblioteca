@@ -1,0 +1,12 @@
+
+### 2. **.gitignore**
+
+```gitignore
+# Ignorar o arquivo do banco de dados SQLite
+biblioteca.db
+
+# Ignorar caches e outros arquivos desnecessários
+__pycache__/
+
+# Arquivos de log
+*.log
