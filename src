@@ -1,0 +1,6 @@
+biblioteca/
+│
+├── src/
+│   └── main.py
+├── .gitignore
+└── README.md
